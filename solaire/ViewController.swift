@@ -16,22 +16,7 @@ class ViewController: UIViewController {
     }
 
 
-    @IBOutlet weak var solaire: UILabel!
-
- var buttonPressed = "true"
-    @IBAction func solaire_biutton(_ sender: UIButton) {
-        if buttonPressed == "true"{
-            solaire.text = "hello"
-        }
-        
-    }
     
-    @IBAction func secondButton(_ sender: UIButton) {
-        
-        if buttonPressed == "true"{
-            solaire.text = "ummm"
-        }
-    }
     
     
 }
