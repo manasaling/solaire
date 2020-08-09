@@ -26,5 +26,13 @@ class ViewController: UIViewController {
         
     }
     
+    @IBAction func secondButton(_ sender: UIButton) {
+        
+        if buttonPressed == "true"{
+            solaire.text = "ummm"
+        }
+    }
+    
+    
 }
 
