@@ -16,6 +16,7 @@
 		182D826824E05B1E00003B8B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 182D826624E05B1E00003B8B /* LaunchScreen.storyboard */; };
 		182D827324E05B1E00003B8B /* solaireTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182D827224E05B1E00003B8B /* solaireTests.swift */; };
 		182D827E24E05B1E00003B8B /* solaireUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182D827D24E05B1E00003B8B /* solaireUITests.swift */; };
+		182D828C24E0846B00003B8B /* ViewControllerThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182D828B24E0846B00003B8B /* ViewControllerThree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		182D827924E05B1E00003B8B /* solaireUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = solaireUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		182D827D24E05B1E00003B8B /* solaireUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = solaireUITests.swift; sourceTree = "<group>"; };
 		182D827F24E05B1E00003B8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		182D828B24E0846B00003B8B /* ViewControllerThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerThree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				182D825A24E05B1D00003B8B /* SceneDelegate.swift */,
 				182D825C24E05B1D00003B8B /* ViewController.swift */,
 				182D825E24E05B1D00003B8B /* Main.storyboard */,
+				182D828B24E0846B00003B8B /* ViewControllerThree.swift */,
 				182D826424E05B1E00003B8B /* Assets.xcassets */,
 				182D826624E05B1E00003B8B /* LaunchScreen.storyboard */,
 				182D826924E05B1E00003B8B /* Info.plist */,
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				182D828C24E0846B00003B8B /* ViewControllerThree.swift in Sources */,
 				182D825D24E05B1D00003B8B /* ViewController.swift in Sources */,
 				182D825924E05B1D00003B8B /* AppDelegate.swift in Sources */,
 				182D825B24E05B1D00003B8B /* SceneDelegate.swift in Sources */,
